@@ -1,4 +1,4 @@
-import random  # Import the random module
+import random
 
 # Function to get user input for the number of dice
 def get_number_of_dice():
